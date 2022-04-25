@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">secure chat</string>
+    <string name="wlecome_to_hey_there">Wlecome to secure chat</string>
+    <string name="verify_your_number">Verify Your Number</string>
+    <string name="Verify">Please enter your mobile number. You will get an SMS including a verification code.</string>
+    <string name="next">next</string>
+    <string name="waiting_to_automatically_detect_an_sms_sent_to">Waiting to automatically detect an SMS sent to</string>
+    <string name="hint_for_otp">------</string>
+    <string name="send_verification_code">send verification code</string>
+    <string name="waiting_text">Waiting to automatically detect an SMS sent to\n %s Wrong Number?</string>
+    <string name="resend_sms">Resend SMS</string>
+    <string name="today">Today</string>
+    <string name="yesterday">Yesterday</string>
+    <string name="monday">Monday</string>
+    <string name="tuesday">Tuesday</string>
+    <string name="wednesday">Wednesday</string>
+    <string name="thursday">Thursday</string>
+    <string name="friday">Friday</string>
+    <string name="saturday">Saturday</string>
+    <string name="sunday">Sunday</string>
+    <string name="like_message">Like message</string>
+    <string name="welcome_to_whatsapp">Welcome to Whatsapp</string>
+    <string name="verify_number">Verify %s</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

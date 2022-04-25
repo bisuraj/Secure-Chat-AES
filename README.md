@@ -1,2 +1,1 @@
-# Secure-Chat-AES
-Android chat Application Using AES Algorithm 
+Chat Application USING AES Algorithm
